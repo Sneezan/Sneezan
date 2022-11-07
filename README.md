@@ -9,7 +9,7 @@
 - 💎 I like stuff that's shiny, cats, champagne and fresh flowers (you know, all the good things)
 
 
-## 🙋🏻‍♀️ Currently: I'm looking for a job as a developer in Stockholm or remote!
+## 🙋🏻‍♀️ Currently: I'm up for grabs as a developer in Stockholm or remote!
 What you'll get is a super energized and social employee (might be all the coffee I drink), that is in love
 with code always up for a challenge ⭐️
 Connect with me on LinkedIn https://www.linkedin.com/in/ceciliafranlund/
