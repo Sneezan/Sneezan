@@ -3,9 +3,10 @@
 ### Hi there 👋
 
 - 👋 I'm Cecilia, a frontend developer based in Stockholm, Sweden.
-- 🪐 My stack include, but is not limited to: JavaScript & React, CSS HTML & Node.
+- 🪐 My stack include, but is not limited to: JavaScript & React, CSS HTML, Node, Redux.
 - 👻 I'm one of those crazy people that really enjoy react and styled components.
-- 🌱 Currently I'm learning redux and backend during november!
+- 🌱 Currently I'm learning BACKEND.
+- 🎉 Stay tuned for my final project during december, may or may not be a game 👀
 - 💎 I like stuff that's shiny, cats, champagne and fresh flowers (you know, all the good things)
 
 
