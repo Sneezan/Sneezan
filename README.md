@@ -3,17 +3,18 @@
 ### Hi there 👋
 
 - 👋 I'm Cecilia, a frontend developer based in Stockholm, Sweden.
-- 🪐 My stack include, but is not limited to: JavaScript & React, CSS HTML, Node, Redux.
+- 🪐 My stack include, but is not limited to: JavaScript & React, CSS HTML, Node.js, Redux, Express, MongoDB
 - 👻 I'm one of those crazy people that really enjoy react and styled components.
-
 - 🌱 Currently I'm  working on my final project: get a Gripp -  a party game! 🎉 👀
 - 💎 I like stuff that's shiny, cats, champagne and fresh flowers (you know, all the good things)
-
 
 ## 🙋🏻‍♀️ Currently: I'm up for grabs as a developer in Stockholm or remote!
 What you'll get is a super energized and social employee (might be all the coffee I drink), that is in love
 with code always up for a challenge ⭐️
-Connect with me on LinkedIn https://www.linkedin.com/in/ceciliafranlund/
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ceciliafranlund)
+
+## res.json(byLevel.slice(0, [-1]))... what? 😰
+So you're not a programmer? - that's totally OK, you can still see some of my projects easy and stress free by visiting my [PORTFOLIO](https://ceciliafranlund.netlify.app) 
 
 ##
 ![Cecilias's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneezan&show_icons=true&theme=transparent)
