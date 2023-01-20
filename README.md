@@ -5,7 +5,7 @@
 - 👋 I'm Cecilia, a frontend developer based in Stockholm, Sweden.
 - 🪐 My stack include, but is not limited to: JavaScript & React, CSS HTML, Node.js, Redux, Express, MongoDB
 - 👻 I'm one of those crazy people that really enjoy react and styled components.
-- 🌱 Currently I'm  working on my final project: get a Gripp -  a party game! 🎉 👀
+- 🌱 Check out my final project, Project Gripp https://github.com/Sneezan/project-gripp
 - 💎 I like stuff that's shiny, cats, champagne and fresh flowers (you know, all the good things)
 
 ## 🙋🏻‍♀️ Currently: I'm up for grabs as a developer in Stockholm or remote!
