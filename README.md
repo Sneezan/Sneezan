@@ -8,13 +8,12 @@
 - 🌱 Check out my final project, Project Gripp https://github.com/Sneezan/project-gripp
 - 💎 I like stuff that's shiny, cats, champagne and fresh flowers (you know, all the good things)
 
-## 🙋🏻‍♀️ Currently: I'm up for grabs as a developer in Stockholm or remote!
-What you'll get is a super energized and social employee (might be all the coffee I drink), that is in love
-with code always up for a challenge ⭐️
+## 🙋🏻‍♀️ Currently: I'm up for grabs as a junior developer in Stockholm or remote!
+What you'll get is a super energized and social employee (might be all the coffee I drink). Looking to further deepen and broaden my skills while in a challenging and supportive environment to further grow ⭐️
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ceciliafranlund)
 
-## res.json(byLevel.slice(0, [-1]))... what? 😰
-So you're not a programmer? - that's totally OK, you can still see some of my projects easy and stress free by visiting my [PORTFOLIO](https://ceciliafranlund.netlify.app) 
+## Visit the portfolio
+So you're not a programmer and don't really care about my code? - that's totally OK, you can still see some of my projects easy and stress free by visiting my [PORTFOLIO](https://ceciliafranlund.netlify.app) 
 
 ##
 ![Cecilias's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneezan&show_icons=true&theme=transparent)
