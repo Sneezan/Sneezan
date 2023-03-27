@@ -4,11 +4,12 @@
 - 👋 I'm Cecilia, a frontend developer based in Stockholm, Sweden.
 - 🪐 My stack include, but is not limited to: JavaScript & TypeScript, React, CSS HTML, Node.js, Redux, Express, MongoDB
 - 👻 I'm one of those crazy people that really enjoy react and styled components.
-- 🌱 Check out my final project, Project Gripp https://github.com/Sneezan/project-gripp
 - 💎 I like stuff that's shiny, cats, champagne and fresh flowers (you know, all the good things)
+- 🌱 Intern at [Stryda](https://stryda.gg)  
 
-## 🙋🏻‍♀️ I'm up for grabs as a developer in Stockholm or remote!
+## Where am I?
 Currently, I'm an intern at Stryda (@g-loot) where I work with react and TypeScript, but I'm also looking for a full-time role ⭐️
+So I do actually contribute way more than is showed here.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ceciliafranlund)
 
 ## Visit the portfolio
