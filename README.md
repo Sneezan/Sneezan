@@ -9,7 +9,7 @@
 
 ## Where am I?
 Currently, I'm an intern at Stryda (@g-loot) where I work with react and TypeScript, but I'm also looking for a full-time role ⭐️
-So I do contribute way more than is showed here, head over to @CeciliaStryda.
+So I do contribute way more than is showed here, head over to [@CeciliaStryda GitHub](https://github.com/CeciliaStryda)
 In the meantime - connect with me on [LinkedIn](https://www.linkedin.com/in/ceciliafranlund)
 
 ## Visit the portfolio
