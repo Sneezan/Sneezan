@@ -6,4 +6,3 @@
 - 👻 I currently work as a Software Engineer at [RELEX Pricing & Promotions](https://www.relexsolutions.com/solutions/price-optimization-software/)
 - 🤹🏻‍♀️ Currently learning GO, SQL and Clickhouse and taking on Full Stack tickets 
 - 💎 I like stuff that's shiny, cats, champagne and fresh flowers (you know, all the good things)
-EX-Stryda, head over to [@CeciliaStryda GitHub](https://github.com/CeciliaStryda)
