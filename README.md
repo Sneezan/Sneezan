@@ -6,6 +6,4 @@
 - 👻 I currently work as a Software Developer at [Hailey HR](https://haileyhr.com/), we roll with Azure DevOps so I'm not here a lot.
      Most of my contribution lies closed in private repositorties 🤫
 - 🤹🏻‍♀️ Currently learning GO, SQL and Clickhouse and taking on Full Stack tickets 
-- 🎆 For funsies, I'm learning [Unreal Engine](https://www.unrealengine.com/en-US) and game development with C++  
-
 - 💎 I like stuff that's shiny, cats, champagne and fresh flowers (you know, all the good things)
